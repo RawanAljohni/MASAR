@@ -1,1 +1,1 @@
-During my time at DataCamp, I had the opportunity to showcase a variety of small Python projects. These projects encompassed a range of topics and applications, allowing me to demonstrate my proficiency in Python programming across different areas.You can view some of them here. 
+During my time at DataCamp, I had the opportunity to showcase a variety of small Python projects. These projects encompassed a range of topics and applications, allowing me to demonstrate my proficiency in Python programming across different areas. You can view some of them here. 
